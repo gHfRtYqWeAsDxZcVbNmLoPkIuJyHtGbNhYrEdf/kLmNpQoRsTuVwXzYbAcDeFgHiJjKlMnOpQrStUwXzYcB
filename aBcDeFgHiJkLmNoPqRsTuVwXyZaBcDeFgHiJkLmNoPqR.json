@@ -9,10 +9,10 @@
       "sleep_duration": 40
     },
     {
-      "user_name": "5ater",
+      "user_name": "5aTaR",
       "discord_user": "_5tr_",
       "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "54:52:4a:28:a2:8",
+      "mac_address": "54:52:4a:28:a2:8b",
       "end_date": "2030-01-1 23:59:59",
       "sleep_duration": 40
     },
@@ -53,7 +53,7 @@
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
+      "end_date": "2024-01-20 20:00:00",
       "sleep_duration": 40
     }
   ],
