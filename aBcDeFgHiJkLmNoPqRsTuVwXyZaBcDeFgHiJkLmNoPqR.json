@@ -61,7 +61,7 @@
       "mac_address": "15:57:5e:78:e2:88",
       "end_date": "2024-01-27 23:59:59",
       "sleep_duration": 40,
-      "farm_time": 0.300
+      "farm_time": 10.300
     }
   ],
   "time_zone": "Africa/Cairo"
