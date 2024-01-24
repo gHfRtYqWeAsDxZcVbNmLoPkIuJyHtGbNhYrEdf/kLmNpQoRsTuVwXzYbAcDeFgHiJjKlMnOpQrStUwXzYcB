@@ -4,10 +4,10 @@
       "user_name": "Me",
       "discord_user": "1_bb",
       "discord_webhook_url": "https://discord.com/api/webhooks/1198358754928902244/iDcz-fhvFRjlGwP_GMMWC8t08rytfVJw6mV5-3HRShognfguwFRlsrwBNBixXYQronL1",
-      "mac_address": "15:57:5e:78:e2:88",
+      "mac_address": "",
       "end_date": "2030-01-1 23:59:59",
       "sleep_duration": 40,
-      "farm_time": 10.300
+      "farm_time": 0.300
     },
     {
       "user_name": "5aTaR",
@@ -58,7 +58,7 @@
       "user_name": "abdo",
       "discord_user": "morshed3449",
       "discord_webhook_url": "https://discord.com/api/webhooks/1199493558420385812/V46p4aq3ImVUNGnTHvzWEimUs2YNeQ4N8RESJNwv4TtKaKExLcXFEoxREGPjfHr3kCa_",
-      "mac_address": "4a:2b:ad:b6:db:6f",
+      "mac_address": "15:57:5e:78:e2:88",
       "end_date": "2024-01-27 23:59:59",
       "sleep_duration": 40,
       "farm_time": 0.300
