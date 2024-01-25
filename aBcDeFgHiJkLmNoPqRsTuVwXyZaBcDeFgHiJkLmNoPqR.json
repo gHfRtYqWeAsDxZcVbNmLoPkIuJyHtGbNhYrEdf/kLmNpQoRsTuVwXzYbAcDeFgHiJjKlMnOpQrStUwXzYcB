@@ -64,11 +64,11 @@
       "farm_time": 0.300
     },
     {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
+      "user_name": "5kqq",
+      "discord_user": "5kqq",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1200178308168552478/4XZHejQc09VOXZRxu232RiJ7wz-4nsgjAxYGjIbGuuCbfThmfFSgzHd5c3LrBel9C9j5",
+      "mac_address": "c2:08:21:85:15:55",
+      "end_date": "2024-01-27 23:59:59",
       "sleep_duration": 40,
       "farm_time": 0.300
     },
