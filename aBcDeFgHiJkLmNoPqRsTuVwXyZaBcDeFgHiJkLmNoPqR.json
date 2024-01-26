@@ -82,10 +82,10 @@
       "farm_time": 0.350
     },
     {
-      "user_name": "Name",
-      "discord_user": "User",
+      "user_name": "me",
+      "discord_user": "me",
       "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
+      "mac_address": "cc:33:ce:3a:ea:ab",
       "end_date": "2030-01-1 23:59:59",
       "sleep_duration": 40,
       "farm_time": 0.300
