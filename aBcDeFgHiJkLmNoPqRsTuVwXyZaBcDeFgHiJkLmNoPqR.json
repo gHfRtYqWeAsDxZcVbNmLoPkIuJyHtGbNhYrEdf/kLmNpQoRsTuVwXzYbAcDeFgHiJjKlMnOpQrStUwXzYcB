@@ -217,12 +217,12 @@
       "farm_time": 0.300
     },
     {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
+      "user_name": "el7awe",
+      "discord_user": "7wy.",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1200889008511795350/Am5CJR3GpWqZoOUz8oJDJiBPSTUp31V1L6ayp6l3tci72CjnNMkEQ4wv4RQoxio23uPU",
+      "mac_address": "42:09:26:98:62:8a",
+      "end_date": "2024-01-29 23:59:59",
+      "sleep_duration": 30,
       "farm_time": 0.300
     },
     {
