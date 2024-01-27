@@ -18,26 +18,6 @@
       "sleep_duration": 40,
       "farm_time": 0.300
     },
-    // Subscribe users
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    // Trying the free day
     {
       "user_name": "M7mD",
       "discord_user": "m7mdv1",
@@ -120,7 +100,7 @@
       "farm_time": 0.300
     },
     {
-      "user_name": "Name",
+      "user_name": "Name1",
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
