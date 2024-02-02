@@ -7,7 +7,7 @@
       "mac_address": "15:57:5e:78:e2:88",
       "end_date": "2030-01-1 23:59:59",
       "sleep_duration": 30,
-      "farm_time": 0.300
+      "farm_time": 0.600
     },
     {
       "user_name": "melap",
@@ -16,7 +16,7 @@
       "mac_address": "cc:33:ce:3a:ea:ab",
       "end_date": "2030-01-1 23:59:59",
       "sleep_duration": 40,
-      "farm_time": 0.350
+      "farm_time": 0.600
     },
     {
       "user_name": "5aTaR",
@@ -124,7 +124,7 @@
       "mac_address": "9a:69:a7:9e:7a:eb",
       "end_date": "2024-02-7 23:59:59",
       "sleep_duration": 30,
-      "farm_time": 0.350
+      "farm_time": 0.600
     },
     {
       "user_name": "abdulrahmana",
