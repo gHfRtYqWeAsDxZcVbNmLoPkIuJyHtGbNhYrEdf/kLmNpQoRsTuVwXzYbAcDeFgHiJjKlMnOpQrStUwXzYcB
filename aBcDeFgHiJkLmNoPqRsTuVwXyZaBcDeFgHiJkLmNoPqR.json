@@ -5,379 +5,175 @@
       "discord_user": "1_bb",
       "discord_webhook_url": "https://discord.com/api/webhooks/1200824467828514911/g883j-fkGZ6MLBFC954B04vUomGo00PH9_wBG6XH44O_Uem4WK58f0jH2-MprT4tW_Sz",
       "mac_address": "15:57:5e:78:e2:88",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 30,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "melap",
-      "discord_user": "me",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "00:00:00:00:02:08",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
       "user_name": "5aTaR",
       "discord_user": "_5tr_",
       "discord_webhook_url": "https://discord.com/api/webhooks/1198426504422506497/ish-OSFsFWu9QuP2G0Sr4RqtdyYw2wVWsqUNHqegnXjhDwd3gC-t5NznSG5xqAyrUP3s",
       "mac_address": "54:52:4a:28:a2:8b",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Eldaly",
-      "discord_user": "eldaly15",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1198662627744813066/8G0WOGcv5e8RFMDllSRV05wr7x9_8SGG_2L2f2k93YSYrTLQhyhddf31mDars_oUIRqp",
-      "mac_address": "43:0d:36:da:6b:ad",
-      "end_date": "2024-01-20 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
       "user_name": "Subscribe users",
       "discord_user": "Subscribe users",
       "discord_webhook_url": "Subscribe users",
       "mac_address": "Subscribe users",
-      "end_date": "Subscribe users",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "Subscribe users"
     },
     {
-      "user_name": "Name",
+      "user_name": "1s",
       "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1212464275361107968/tq5mh-dauPif55JuVuo0jV7vCzUbqIoOFxOgbcrKY0JD7AhmdydukCWDywxSy_Zhr858",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "2s",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1212464389223882832/mK3fWHMlJ7l01AUOHxIBC_6EUINMViIhyFv8BoE1lxW77CGs2RZWLM-05NKcwWxmzg4N",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "3s",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1212464450498592879/niklJEcZu3hVJj8nAoZYKSjtE0xp85X8EJ67UMgXk3crmxb6XuCa1NjrFz3cUj_EhbTk",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "4s",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1212464508732317767/RNDap6CIJDzqG7iKQLIS7yMgi1re8pn-iEZirUDyEF5PI_j_T42drB3n7ZrDNmioD7lO",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "5s",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1212464573739958332/jUra62xbXQqovK8E6TZ3GFr-cUNgf4czALuDhE2-kGixcgs3cSUDNGdcgqR74hWNjw1v",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
     },
     {
       "user_name": "Free Subscribe users",
       "discord_user": "Free Subscribe users",
       "discord_webhook_url": "Free Subscribe users",
       "mac_address": "Free Subscribe users",
-      "end_date": "Free Subscribe users",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "Free Subscribe users"
     },
     {
-      "user_name": "M7mD",
-      "discord_user": "m7mdv1",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1198662292020138074/1uT6W8vDrSBVxuwQBp1pCd8nkR_XHaKPT6oLNSUfZ1GH4D_PoHRXQ3P2UATAJDREm5JJ",
-      "mac_address": "21:84:11:45:17:5d",
-      "end_date": "2024-01-27 23:59:59",
-      "sleep_duration": 80,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "𝟑𝐚𝐅𝐫𝐨𝐓𝐨",
-      "discord_user": "3afrot",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1198988135938408469/dQguy7idgmLJrClUw9rDdVDmiWwp2V7XNhu7IJ1MTgpMNg-5P_cwr9KVyssd8KFjowqv",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2024-01-29 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "emmau.u",
-      "discord_user": "emmau.u",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1199452550974414972/kEtDFVdvEM7CLnaa0peoLe1U-PzpzaWliOO0gIUp_2pFPHdjZ-UbZsDur96qTU5-EIHU",
-      "mac_address": "8d:34:d3:4f:3d:f5",
-      "end_date": "2024-01-26 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "abdo",
-      "discord_user": "morshed3449",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1199493558420385812/V46p4aq3ImVUNGnTHvzWEimUs2YNeQ4N8RESJNwv4TtKaKExLcXFEoxREGPjfHr3kCa_",
-      "mac_address": "4a:2b:ad:b6:db:6f",
-      "end_date": "2024-01-27 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "5kqq",
-      "discord_user": "5kqq",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200178308168552478/4XZHejQc09VOXZRxu232RiJ7wz-4nsgjAxYGjIbGuuCbfThmfFSgzHd5c3LrBel9C9j5",
-      "mac_address": "c2:08:21:85:15:55",
-      "end_date": "2024-02-7 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "!𝕊𝑶𝕂ℝ",
-      "discord_user": "so.kr",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200475064794107954/3MbrJZahuLGypWwEvhi4jivQShoAR78a1NUfCIE-tLb36vWIOysIW2JNAhlzcUqiTwSg",
-      "mac_address": "cd:35:d7:5e:7b:ec",
-      "end_date": "2024-02-7 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.350
-    },
-    {
-      "user_name": "Vaterx",
-      "discord_user": "hazem42",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200823180315607150/GQGMQVxxcy7Rj844YL0e1fZVKSz2LAnPDox62pghQXHheNNAEtUHTnnonSSMio9UzfRc",
-      "mac_address": "9a:69:a7:9e:7a:eb",
-      "end_date": "2024-02-7 23:59:59",
-      "sleep_duration": 30,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "abdulrahmana",
-      "discord_user": "abdulrahmanar10_87744",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824474019299328/Z8NaFXbPD7iVpaO0V-PBZFYjpJTdborPwFjmETzXqUIBX5708KxpfTrvNLBI_xXVGXoS",
-      "mac_address": "77:de:7b:ed:b4:d1",
-      "end_date": "2024-02-7 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "BuBLy",
-      "discord_user": "nua155",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824478633037845/JGfbI7p7lYAAEmVNfDImm1KpmknlLUYKphLoQ_ytrn-axh0O3O-yeoA8vaBEeU8pR4-2",
-      "mac_address": "72:c8:22:88:22:8b",
-      "end_date": "2024-02-7 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "𝙉𝙖𝙜𝙮",
-      "discord_user": "nagy0799_01567",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824485977280612/N3zbNaYR06NLDS8XK35H3n5VU9hPpu5G6VHylSuM3vGyqIeu5mSnyQJWZtVo3BbFBe-4",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2024-02-7 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Ahmed",
-      "discord_user": "4we2010",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824492470063174/89YbYOBc2w_lBXGULtKwG5ILJkrcIUhwz_xAdzbn_52CoU-iSuQxxaBVGBQTjih85n4H",
-      "mac_address": "be:fa:eb:ad:b7:de",
-      "end_date": "2024-02-7 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name5",
+      "user_name": "1",
       "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824532018155591/XNDGJgvBr1BShY_OPeYqnC-qCm9lG3e2vTfSQIff1VNrjOIjDfxFZFEddkW35GQrpF-M",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "Name6",
+      "user_name": "2",
       "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824537537843352/GcgkBQ1qxassqDY3YJhfVCxxhYIP4xR75T8LRIs4lcTRHglF4Nj7qcS2VOSLLSdavMf2",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "Name7",
+      "user_name": "3",
       "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824543695089766/C75ciCnLOBKirhNi2b_SOiLJTfZlgyAynX8V_2W5c0ZfhSzGV82C13FAiaU5zN80qbkD",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "Name8",
+      "user_name": "4",
       "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824548422066177/gjJBGWFc5AqHDiQXbIUxQ3yPS0jqjNU6fBj8NqGfd--lMBq3Tyryl3lc_l3LYPSaKkDy",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "Name9",
+      "user_name": "5",
       "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200824578172256277/TWjolE8f9w_8NEzYR8AkGpMMca7MF3TkZuY0f4K_wgFQ8Nu5SjYy70BDc9H5kaM8oMUl",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "Name10",
+      "user_name": "6",
       "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200825745296085093/Mb-0qlJn02Dskw7_NzfDSN8urwgQ-FFRUv1pNVsKu4GCjgdKfIzik_SLPj5bn0zK713F",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "el7awe",
-      "discord_user": "7wy.",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1200889008511795350/Am5CJR3GpWqZoOUz8oJDJiBPSTUp31V1L6ayp6l3tci72CjnNMkEQ4wv4RQoxio23uPU",
-      "mac_address": "42:09:26:98:62:8a",
-      "end_date": "2024-01-29 23:59:59",
-      "sleep_duration": 30,
-      "farm_time": 0.300
+      "user_name": "7",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "8",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "9",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "10",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "11",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "12",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "13",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "14",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
+    },
+    {
+      "user_name": "15",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
     },
     {
       "user_name": "Name",
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59",
-      "sleep_duration": 40,
-      "farm_time": 0.300
+      "end_date": "2030-01-1 23:59:59"
     }
   ],
-  "time_zone": "Africa/Cairo"
 }
