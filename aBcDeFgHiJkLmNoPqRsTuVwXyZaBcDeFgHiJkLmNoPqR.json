@@ -167,13 +167,6 @@
       "discord_webhook_url": "https://discord.com/api/webhooks/1200824548422066177/gjJBGWFc5AqHDiQXbIUxQ3yPS0jqjNU6fBj8NqGfd--lMBq3Tyryl3lc_l3LYPSaKkDy",
       "mac_address": "**:**:**:**:**:**",
       "end_date": "2030-01-1 23:59:59"
-    },
-    {
-      "user_name": "Name",
-      "discord_user": "User",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "**:**:**:**:**:**",
-      "end_date": "2030-01-1 23:59:59"
     }
   ],
 }
