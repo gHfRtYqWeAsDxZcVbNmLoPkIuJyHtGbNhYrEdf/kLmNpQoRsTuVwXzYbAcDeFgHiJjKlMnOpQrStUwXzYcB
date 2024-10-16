@@ -1,5 +1,11 @@
 {
-  "users": [
+  "version" : [
+    {
+      "update": "0.7.0",
+      "forceupdate": "0.7.0"
+    }
+  ],
+    "users": [
     {
       "user_name": "Boold",
       "discord_user": "1_bb",
