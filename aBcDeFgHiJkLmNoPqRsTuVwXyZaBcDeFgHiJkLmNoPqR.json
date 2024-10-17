@@ -28,13 +28,6 @@
       "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "Sokr",
-      "discord_user": "so.kr",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1215322759589269574/ytC5hE7c15DcJPhPGL5SylY6qpuif9QC60dGohNQAPrN8b3xd0AjDJS0IV7HvvdqBqc3",
-      "mac_address": "cd:35:d7:5e:7b:ec",
-      "end_date": "2024-03-9 23:59:59"
-    },
-    {
       "user_name": "Subscribe users",
       "discord_user": "Subscribe users",
       "discord_webhook_url": "Subscribe users",
@@ -56,25 +49,25 @@
       "end_date": "Free Subscribe users"
     },
     {
-      "user_name": "XaviZM",
-      "discord_user": "maxquickwn",
+      "user_name": "1",
+      "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks/1198662292020138074/1uT6W8vDrSBVxuwQBp1pCd8nkR_XHaKPT6oLNSUfZ1GH4D_PoHRXQ3P2UATAJDREm5JJ",
-      "mac_address": "81:05:16:58:61:84",
-      "end_date": "2024-06-2 23:59:59"
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "Mr Masya",
-      "discord_user": "tto0nga",
+      "user_name": "2",
+      "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks/1223847206319296605/0EbfOxTQJNzMXjFrQSnB7Tj8dHq6RLBkBfWkPy0y_YelW-x3uhLQ8fXf9pj7ZykKv7Lr",
-      "mac_address": "57:5e:79:e5:94:50",
-      "end_date": "2024-06-7 21:00:00"
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "3bnaser",
-      "discord_user": "3bnasserr",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1198988135938408469/dQguy7idgmLJrClUw9rDdVDmiWwp2V7XNhu7IJ1MTgpMNg-5P_cwr9KVyssd8KFjowqv",
-      "mac_address": "98:63:8c:33:cf:3d",
-      "end_date": "2024-01-1 23:59:59"
+      "user_name": "3",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1296552249811796018/pxo4wdMer-mO_TTPOd29stFeqa1fcncKgWLop_Mdw_QvMfLxMNQUoqU9I0QZc_IVtlDD",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
     },
     {
       "user_name": "4",
