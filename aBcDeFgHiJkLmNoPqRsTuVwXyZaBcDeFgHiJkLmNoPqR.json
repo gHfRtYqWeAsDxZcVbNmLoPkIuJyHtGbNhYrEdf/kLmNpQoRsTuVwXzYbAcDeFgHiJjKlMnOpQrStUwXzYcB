@@ -126,11 +126,11 @@
         "end_date": "2030-01-1 23:59:59"
     },
     {
-      "user_name": "15",
-      "discord_user": "User",
+      "user_name": "Sunny",
+      "discord_user": "sunny_13521",
       "discord_webhook_url": "https://discord.com/api/webhooks/1223848246212952115/kTFtvwJnJ0VcW2wTToOaQ32wDEr1GkNfGBfrjl4TAg41rod0Lp9B7ZcwH9E_9OFqeZFd",
-      "mac_address": "1f:7f:fc:f1:c7:1e",
-      "end_date": "2030-01-1 23:59:59"
+      "mac_address": "4e:39:e6:9a:68:a3",
+      "end_date": "2024-11-2 4:00:00"
     }
   ]
 }
