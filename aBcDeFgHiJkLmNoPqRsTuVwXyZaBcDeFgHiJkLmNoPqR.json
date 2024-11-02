@@ -126,6 +126,13 @@
       "end_date": "2024-11-03 18:25:33"
     },
     {
+      "user_name": "Omer",
+      "discord_user": "6toxic_scorcher9",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1302405603926478960/C01nU7M6NJGGaU2pg00f-F51YiTFLk6OcIYqK5k3ZOIoKdSJH3NZf9foh5Dl-urrn7WL",
+      "mac_address": "12:4a:2a:aa:a9:a5",
+      "end_date": "2024-11-04 00:55:23"
+    },
+    {
         "user_name": "User",
         "discord_user": "User",
         "discord_webhook_url": "https://discord.com/api/webhooks",
