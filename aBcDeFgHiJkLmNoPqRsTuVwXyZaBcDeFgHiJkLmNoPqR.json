@@ -2,7 +2,7 @@
   "version" : [
     {
       "update": "0.8.5",
-      "forceupdate": "0.8.0"
+      "forceupdate": "0.7.0"
     }
   ],
     "users": [
