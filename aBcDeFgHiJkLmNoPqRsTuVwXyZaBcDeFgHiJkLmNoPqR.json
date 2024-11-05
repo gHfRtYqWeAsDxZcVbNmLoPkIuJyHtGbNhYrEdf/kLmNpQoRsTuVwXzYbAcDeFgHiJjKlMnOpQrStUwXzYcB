@@ -2,7 +2,7 @@
   "version" : [
     {
       "update": "0.8.5",
-      "forceupdate": "0.7.0"
+      "forceupdate": "0.8.0"
     }
   ],
     "users": [
@@ -143,7 +143,7 @@
         "user_name": "User",
         "discord_user": "User",
         "discord_webhook_url": "https://discord.com/api/webhooks",
-        "mac_address": "**:**:**:**:**:**",
+        "mac_address": "15:57:5e:78:e2:88",
         "end_date": "2030-01-1 23:59:59"
     },
     {
