@@ -10,7 +10,7 @@
       "user_name": "Boold",
       "discord_user": "1_bb",
       "discord_webhook_url": "https://discord.com/api/webhooks/1200824467828514911/g883j-fkGZ6MLBFC954B04vUomGo00PH9_wBG6XH44O_Uem4WK58f0jH2-MprT4tW_Sz",
-      "mac_address": "15:57:5e:78:e2:88",
+      "mac_address": "1f:7f:fc:f1:c7:1e",
       "end_date": "2031-01-1 23:59:59"
     },
     {
@@ -152,6 +152,13 @@
       "discord_webhook_url": "https://discord.com/api/webhooks/1304926112446677002/7M36hPB2EZQB6yN0bXgD40hRw-embOTarjeeKMawwtqINU6r6JNJ1qZZeV7eqv6ickJW",
       "mac_address": "45:17:5c:72:c9:25",
       "end_date": "2024-11-10 23:59:59"
+    },
+    {
+      "user_name": "User",
+      "discord_user": "User",
+      "discord_webhook_url": "https://discord.com/api/webhooks",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
     },
     {
       "user_name": "User",
