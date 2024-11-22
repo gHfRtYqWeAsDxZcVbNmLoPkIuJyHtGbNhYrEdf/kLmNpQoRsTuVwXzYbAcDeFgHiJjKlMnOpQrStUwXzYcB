@@ -196,6 +196,13 @@
       "end_date": "2024-11-23 23:59:59"
     },
     {
+      "user_name": "Cap Disha",
+      "discord_user": ".ov4",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1309601154514157661/PdjT31NccNeWfu-CGFI9e2QBSidL9eh0KuBdvvH9dux--eefJHtcDvs-WLUFjgRdq-YZ",
+      "mac_address": "78:e1:84:12:48:22",
+      "end_date": "2024-11-23 23:59:59"
+    },
+    {
       "user_name": "User",
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks",
