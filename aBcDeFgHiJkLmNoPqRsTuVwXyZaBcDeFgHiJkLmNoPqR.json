@@ -217,6 +217,13 @@
       "end_date": "2024-11-26 11:59:59"
     },
     {
+      "user_name": "EssTeeDee",
+      "discord_user": "essteedee_75215",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1310496185781588031/9WhtrFSE-LMpCU7Xmbf7WRTUpEix4tUnyfDB5J9erj7bqKAo9rkUy_m0Yi8CDxVNiwmR",
+      "mac_address": "ad:b5:d7:5d:76:db",
+      "end_date": "2024-11-26 11:59:59"
+    },
+    {
       "user_name": "User",
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks",
