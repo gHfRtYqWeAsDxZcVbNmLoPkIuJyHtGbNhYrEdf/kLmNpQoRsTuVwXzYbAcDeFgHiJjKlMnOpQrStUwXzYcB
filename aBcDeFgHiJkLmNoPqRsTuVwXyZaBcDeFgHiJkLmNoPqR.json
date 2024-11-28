@@ -255,7 +255,7 @@
       "user_name": "User",
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks",
-      "mac_address": "00:00:00:00:02:08",
+      "mac_address": "00:00:00:00:02:**",
       "end_date": "2030-01-1 23:59:59"
     },
     {
