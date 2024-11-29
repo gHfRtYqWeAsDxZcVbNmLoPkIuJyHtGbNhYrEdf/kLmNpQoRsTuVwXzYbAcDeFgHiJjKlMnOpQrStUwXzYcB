@@ -252,6 +252,13 @@
       "end_date": "2024-11-28 11:59:59"
     },
     {
+      "user_name": "KariZma",
+      "discord_user": "nourelrayes",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1312024297526792275/0_OmHVMwKxh3dUtgmx0g5yKtLjy1Gs8MGDMlozdHp_l_MCVpdRrktjMAiJ6WBsoEWfzC",
+      "mac_address": "0b:2e:b9:e6:98:63",
+      "end_date": "2024-12-30 01:59:59"
+    },
+    {
       "user_name": "User",
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks",
