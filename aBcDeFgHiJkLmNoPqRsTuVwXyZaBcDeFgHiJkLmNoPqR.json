@@ -60,7 +60,14 @@
       "discord_user": "maxwell132",
       "discord_webhook_url": "https://discord.com/api/webhooks/1310732316229894224/LxeovxFO1jVqhD5T71TejTbX4dQVkUnqWMd0v-0v5w5XqsGpXc3PQaQQEP0jlMI5QVMr",
       "mac_address": "9c:71:c4:11:45:15",
-      "end_date": "2024-12-04 01:59:59"
+      "end_date": "2024-12-04 23:59:59"
+    },
+    {
+      "user_name": "IGameAndTut",
+      "discord_user": "igameandtut",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1312254002121146450/lwz6MVdCUUx5gZvBDSpMxMGUxIOXqF-w1iTsaS__zoAEigAdhQ-xMZVPYZt80HYaNxCV",
+      "mac_address": "18:61:84:13:4e:38",
+      "end_date": "2024-12-08 23:59:59"
     },
     {
       "user_name": "BuBLy",
@@ -257,13 +264,6 @@
       "discord_webhook_url": "https://discord.com/api/webhooks/1312024297526792275/0_OmHVMwKxh3dUtgmx0g5yKtLjy1Gs8MGDMlozdHp_l_MCVpdRrktjMAiJ6WBsoEWfzC",
       "mac_address": "0b:2e:b9:e6:98:63",
       "end_date": "2024-12-30 01:59:59"
-    },
-    {
-      "user_name": "IGameAndTut",
-      "discord_user": "igameandtut",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1312254002121146450/lwz6MVdCUUx5gZvBDSpMxMGUxIOXqF-w1iTsaS__zoAEigAdhQ-xMZVPYZt80HYaNxCV",
-      "mac_address": "18:61:84:13:4e:38",
-      "end_date": "2024-12-01 06:59:59"
     },
     {
       "user_name": "User",
