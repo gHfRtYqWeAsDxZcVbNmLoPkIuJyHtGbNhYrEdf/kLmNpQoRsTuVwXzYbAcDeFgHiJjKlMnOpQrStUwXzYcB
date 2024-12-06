@@ -63,6 +63,13 @@
       "end_date": "2024-12-13 23:59:59"
     },
     {
+      "user_name": "Wonka",
+      "discord_user": "macrosfrager",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1313205226936860712/EGHox65mWTgRixJR1PL3pkXThD15wsmg6sedMdcKjz_PluJChuVTRKmOhd7D4ej_uU6p",
+      "mac_address": "2d:b4:d1:45:16:5b",
+      "end_date": "2025-02-07 23:59:59"
+    },
+    {
       "user_name": "BuBLy",
       "discord_user": "nua155",
       "discord_webhook_url": "https://discord.com/api/webhooks/1198662627744813066/8G0WOGcv5e8RFMDllSRV05wr7x9_8SGG_2L2f2k93YSYrTLQhyhddf31mDars_oUIRqp",
@@ -271,13 +278,6 @@
       "discord_webhook_url": "https://discord.com/api/webhooks/1313165309896560761/OLi9mN_T0FtgCIAujAsKM7aRIdYRBV2GWsPlOgcHm4ctT00MiM3HBsWEov8BHfABRU9_",
       "mac_address": "9b:6e:bb:ed:b6:d9",
       "end_date": "2024-12-3 17:59:59"
-    },
-    {
-      "user_name": "Wonka",
-      "discord_user": "macrosfrager",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1313205226936860712/EGHox65mWTgRixJR1PL3pkXThD15wsmg6sedMdcKjz_PluJChuVTRKmOhd7D4ej_uU6p",
-      "mac_address": "2d:b4:d1:45:16:5b",
-      "end_date": "2024-12-03 20:59:59"
     },
     {
       "user_name": "User",
