@@ -280,6 +280,13 @@
       "end_date": "2024-11-30 23:59:59"
     },
     {
+      "user_name": "KAF",
+      "discord_user": "khaledalifarrag",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1315751876553080896/BzZgEYFqTynAQsuy8vmRxZMSYTOD8_z6PtpWqbkRhTXH0BZvKLbKaMOFbWfsGOskLoGt",
+      "mac_address": "4a:2a:a9:a5:97:5c",
+      "end_date": "2024-12-24 23:59:59"
+    },
+    {
       "user_name": "User",
       "discord_user": "User",
       "discord_webhook_url": "https://discord.com/api/webhooks",
